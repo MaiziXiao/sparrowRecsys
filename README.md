@@ -1,1 +1,1 @@
-# sparrowRecsys
+# Notebook example of sparrowRecsys
